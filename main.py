@@ -84,9 +84,9 @@ def clear():
 def back():
 	login()
 
-ah="FIQ-"
-imt="-M1472=="
-ak="TOU-"
+ah="FKEY-"
+imt="-M15=="
+ak="AA-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrBALOCH-cov', 'r').read()
@@ -401,7 +401,7 @@ _________________(×_×)______________________
   
 [√] Auther      :  Mohammad Ali 🙂
 
-[√] Facebook    : Mohammad Ali
+[√] Facebook    : Mohammad.7060
 
 [√] Telegram     : Mohammad_7060
  
